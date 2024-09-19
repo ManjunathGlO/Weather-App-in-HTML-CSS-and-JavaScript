@@ -1,2 +1,2 @@
-# Wether-App
+# Weather-App
 Wether App
