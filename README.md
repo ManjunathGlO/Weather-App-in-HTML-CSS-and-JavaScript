@@ -51,6 +51,8 @@ Whether you're planning a trip or just curious about the weather in different lo
 
   <br />
 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ## Getting Started 🚀🚀
 ### Prerequisites
 
@@ -104,6 +106,7 @@ npm start
 4. Repeat for multiple cities as needed!
 
    <br />
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ## Contributing 👨‍💻👋
 
