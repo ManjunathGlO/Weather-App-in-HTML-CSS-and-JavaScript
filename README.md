@@ -3,6 +3,8 @@
 ![weather](https://github.com/user-attachments/assets/4214241e-210b-4528-a598-43bcbd0c4be1)
 
 <h3 align="center"><a href="https://manjunathglo.github.io/Weather-App-in-HTML-CSS-and-JavaScript/"><strong>Want to see live preview »</strong></a></h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 <br />
 
@@ -23,6 +25,9 @@
 The Weather Check App is a user-friendly application designed to provide real-time weather updates for multiple cities. 
 Whether you're planning a trip or just curious about the weather in different locations, this app delivers accurate and timely weather information right at your fingertips.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
 <br />
 
 ## Features 🔑💡
@@ -34,6 +39,8 @@ Whether you're planning a trip or just curious about the weather in different lo
 - Responsive Design: Optimized for both mobile and desktop devices.
 
   <br />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Technologies Used 💻
 
@@ -53,6 +60,8 @@ Before you begin, ensure you have the following installed:
 - A text editor or IDE (like Visual Studio Code)
 
   <br />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Installation 🚀
 
@@ -84,6 +93,8 @@ npm start
 ```
 
 <br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 ## Usage ⌛
 
@@ -116,6 +127,8 @@ git push origin feature/YourFeature
 5. Open a pull request.
 
 <br />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
    
    
@@ -129,11 +142,15 @@ If you want to contact me, you can reach me through below handles.
 
 <br />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
 ## License 📜
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 
    
