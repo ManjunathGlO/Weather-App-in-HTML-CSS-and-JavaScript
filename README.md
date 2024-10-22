@@ -4,6 +4,8 @@
 
 <h3 align="center"><a href="https://manjunathglo.github.io/Weather-App-in-HTML-CSS-and-JavaScript/"><strong>Want to see live preview »</strong></a></h3>
 
+<br />
+
 ## Table of Contents 📚 
 
 - Introduction
@@ -14,10 +16,14 @@
 - Contributing
 - License
 
+<br />
+
 ## Introduction 🌦️
 
 The Weather Check App is a user-friendly application designed to provide real-time weather updates for multiple cities. 
 Whether you're planning a trip or just curious about the weather in different locations, this app delivers accurate and timely weather information right at your fingertips.
+
+<br />
 
 ## Features 🔑💡
 
@@ -27,12 +33,16 @@ Whether you're planning a trip or just curious about the weather in different lo
 - Search Functionality: Quickly find weather information by city name.
 - Responsive Design: Optimized for both mobile and desktop devices.
 
+  <br />
+
 ## Technologies Used 💻
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js (optional, if applicable)
 - API: OpenWeatherMap API for real-time weather data
 - Libraries/Frameworks: React (if applicable), Axios, Bootstrap
+
+  <br />
 
 ## Getting Started 🚀🚀
 ### Prerequisites
@@ -41,6 +51,8 @@ Before you begin, ensure you have the following installed:
 
 - Node.js (if applicable)
 - A text editor or IDE (like Visual Studio Code)
+
+  <br />
 
 ## Installation 🚀
 
@@ -70,12 +82,17 @@ npm install
 ```
 npm start
 ```
+
+<br />
+
 ## Usage ⌛
 
 1. Open the application in your web browser.
 2. Enter the name of the city you want to check the weather for.
 3. Click on the "Check Weather" button to see the current weather and forecast.
 4. Repeat for multiple cities as needed!
+
+   <br />
 
 ## Contributing 👨‍💻👋
 
