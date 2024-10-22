@@ -98,15 +98,25 @@ git push origin feature/YourFeature
 ```
 5. Open a pull request.
 
-## Contact
+<br />
+
+   
+   
+
+## Contact 📧
 
 If you want to contact me, you can reach me through below handles.
 
 [![linkedin](https://img.shields.io/badge/ManjunathGL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjunathgl/)
 [![GitHub](https://img.shields.io/badge/ManjunathGl-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ManjunathGlO)
 
+<br />
+
+
 
 ## License 📜
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
    
